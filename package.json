@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gulp-critical-css": "^1.0.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-webp": "^2.3.0",
     "ngrok": "2.2.6",
     "nodemon": "1.11.0"
   },
