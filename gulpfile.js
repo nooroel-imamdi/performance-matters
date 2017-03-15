@@ -16,7 +16,13 @@ gulp.task('images', function(){
 });
 
 gulp.task('default', function () {
-    return gulp.src('src/assets/img/**.jpg')
+    return gulp.src('src/assets/img/**/*')
         .pipe(webp())
         .pipe(gulp.dest('src/assets/img/webp'));
+});
+
+gulp.task('default', function () {
+    return gulp.src('src/examples/screenshots/**/*')
+        .pipe(webp())
+        .pipe(gulp.dest('src/examples/screenshots/webp'));
 });
