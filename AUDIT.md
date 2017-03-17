@@ -75,3 +75,9 @@ Situatie na ContcatJS | Totale laadtijd: 40.81 seconden - Compress.js 16.08 seco
 PageSpeed Insights levert de volgende cijfers op:
 Desktop: 49/100
 Mobile: 49/100
+
+
+## Branches
+- https://github.com/nooroel-imamdi/performance-matters/tree/critical
+- https://github.com/nooroel-imamdi/performance-matters/tree/img-optimalisation
+- https://github.com/nooroel-imamdi/performance-matters/tree/jsconcat
