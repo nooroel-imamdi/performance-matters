@@ -12,6 +12,7 @@
   "devDependencies": {
     "gulp-clean-css": "^3.0.3",
     "gulp-critical-css": "^1.0.1",
+    "gulp-image": "^2.7.5",
     "gulp-imagemin": "^3.1.1",
     "gulp-webp": "^2.3.0",
     "ngrok": "2.2.6",
